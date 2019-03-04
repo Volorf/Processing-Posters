@@ -5,7 +5,7 @@ I used [p5.js](https://p5js.org) to generate a pattern and [Figma](https://www.f
 The project on [Dribbble](https://dribbble.com/Volorf) and [Behance](https://behance.com/Volorf).
 
 ## How to use the p5.js sketches
-Copy/paste [a p5.js sketch](../js/) to [the p5.js web editor](https://editor.p5js.org/) and play around with.
+Copy/paste [a p5.js sketch](/js) to [the p5.js web editor](https://editor.p5js.org/) and play around with.
 
 ## Poster I
 ![Processing Poster I](/images/poster_01@2x.png)
