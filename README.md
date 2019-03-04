@@ -1,6 +1,6 @@
 #Processing Posters I
 
-Here is p5.js sketches for my posters project.
+Here are p5.js sketches for my posters project.
 I used [p5.js]() to generate a pattern and [Figma]() to compose it into a poster.
 The project on [Dribbble](https://dribbble.com/Volorf) and [Behance](https://behance.com/Volorf).
 
