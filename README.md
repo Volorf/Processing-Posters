@@ -11,7 +11,7 @@ Copy/paste [a p5.js sketch](/js) to [the p5.js web editor](https://editor.p5js.o
 ![Processing Poster I](/images/poster_01@2x.png)
 ## Poster II
 ![Processing Poster II](/images/poster_02@2x.png)
-## Poster IIIx
+## Poster III
 ![Processing Poster III](/images/poster_03@2x.png)
 ## Poster IV
 ![Processing Poster IV](/images/poster_04@2x.png)
